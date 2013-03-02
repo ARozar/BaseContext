@@ -1,0 +1,5 @@
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Domain\bin\Debug\Domain.dll
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Domain\bin\Debug\Domain.pdb
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Domain\obj\Debug\Domain.dll
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,10 @@
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Data\bin\Debug\Data.dll.config
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Data\bin\Debug\Data.dll
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Data\bin\Debug\Data.pdb
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Data\bin\Debug\Domain.dll
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Data\bin\Debug\EntityFramework.dll
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Data\bin\Debug\Domain.pdb
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Data\bin\Debug\EntityFramework.xml
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Data\obj\Debug\Data.dll
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\Data\obj\Debug\Data.pdb

@@ -1,0 +1,6 @@
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\dev\SkyDrive\ContextBase\BaseContext\ConsoleApp\obj\Debug\ConsoleApp.pdb
