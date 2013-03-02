@@ -10,3 +10,6 @@ C:\Users\dev\SkyDrive\ContextBase\BaseContext\DataBaseSetup\bin\Debug\EntityFram
 C:\Users\dev\SkyDrive\ContextBase\BaseContext\DataBaseSetup\obj\Debug\DataBaseSetup.csprojResolveAssemblyReference.cache
 C:\Users\dev\SkyDrive\ContextBase\BaseContext\DataBaseSetup\obj\Debug\DataBaseSetup.exe
 C:\Users\dev\SkyDrive\ContextBase\BaseContext\DataBaseSetup\obj\Debug\DataBaseSetup.pdb
+C:\Users\dev\SkyDrive\BaseContext\BaseContext\DataBaseSetup\bin\Debug\DataBaseSetup.exe.config
+C:\Users\dev\SkyDrive\BaseContext\BaseContext\DataBaseSetup\obj\Debug\DataBaseSetup.exe
+C:\Users\dev\SkyDrive\BaseContext\BaseContext\DataBaseSetup\obj\Debug\DataBaseSetup.pdb

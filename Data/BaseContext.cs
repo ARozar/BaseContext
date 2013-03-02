@@ -17,7 +17,7 @@ namespace Data
         public DbSet<RepairPart> RepairParts { get; set; }
 
         public BaseContext()
-            : base("name=Base")
+            : base("Base")
         {
         }
 
